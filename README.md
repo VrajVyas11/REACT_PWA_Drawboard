@@ -1,4 +1,4 @@
-# GyaanSlate
+# DrawBoard
 
 DrawBoard is a modern Progressive Web App (PWA) built with Vite + React, offering fast loading times, offline access, and a seamless user experience for educational content.
 
