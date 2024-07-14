@@ -15,16 +15,10 @@ Check out the live demo at: [DrawBoard Live](https://gyann-slate.vercel.app/)
 ## Screenshots
 
 ### Browser View
-![Browser View](./livedemoimages/browser.png)
-
-### GyaanSlate Desktop Shortcut
-![GyaanSlate Desktop Shortcut](./livedemoimages/GyannSlateDesktopShortcut.png)
-
-### Install Permission
-![Install Permission](./livedemoimages/installpermission.jpeg)
+![Browser View](./livedemoimages/browser.jpg)
 
 ### Laptop Download
-![Laptop View](./livedemoimages/laptop.png)
+![Laptop View](./livedemoimages/DesktopDownload.png)
 
 ### Mobile Download
-![Mobile View](./livedemoimages/mobile.png)
+![Mobile View](./livedemoimages/mobile.jpg)
