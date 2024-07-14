@@ -15,7 +15,7 @@ Check out the live demo at: [DrawBoard Live](https://gyann-slate.vercel.app/)
 ## Screenshots
 
 ### Browser View
-![Browser View](./livedemoimages/browser.jpg)
+![Browser View](./livedemoimages/browser.png)
 
 ### Laptop Download
 ![Laptop View](./livedemoimages/DesktopDownload.png)
